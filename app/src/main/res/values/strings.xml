@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB-EXAM</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_city_selection_screen">CitySelectionScreen</string>
+    <string name="title_activity_weather_detail_screen">WeatherDetailScreen</string>
+</resources>
