@@ -48,9 +48,8 @@ fun SplashScreen(navController: NavController) {
             .background(Color.White),
         contentAlignment = Alignment.Center
     ) {
-        Text(text = "SKY SIGHT")
         Image(
-            painter = painterResource(id = R.drawable.logo),
+            painter = painterResource(id = R.drawable.ic_launcher),
             contentDescription = "App Logo",
             modifier = Modifier.size(128.dp)
         )
